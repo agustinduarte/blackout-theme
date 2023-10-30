@@ -1,0 +1,38 @@
+{
+  "name": "blackout-theme",
+  "displayName": "blackout-theme",
+  "description": "Full blackout theme for VS Code",
+  "version": "0.0.1",
+  "publisher": "agustinduarte",
+  "engines": {
+    "vscode": "^1.80.1"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "keywords": [
+    "black",
+    "theme",
+    "dark",
+    "blackout",
+    "agustinduarte"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agustinduarte/blackout-theme.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blackout",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blackout-theme.json"
+      }
+    ]
+  }
+}
