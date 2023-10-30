@@ -2,7 +2,7 @@
   "name": "blackout-theme",
   "displayName": "Blackout Theme",
   "description": "Full blackout theme for VS Code",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "agustinduarte",
   "engines": {
     "vscode": "^1.80.1"
@@ -31,7 +31,7 @@
       {
         "label": "Blackout",
         "uiTheme": "vs-dark",
-        "path": "./themes/blackout-theme.json"
+        "path": "./themes/Blackout-color-theme.json"
       }
     ]
   }
