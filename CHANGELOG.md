@@ -2,6 +2,16 @@
 
 All notable changes to the "blackout-theme" extension will be documented in this file.
 
+### [0.0.72] - 2023-11-02
+
+### Changed
+
+- Color adjustment in:
+  - Dropdown box
+  - Inputbox
+  - Buttons
+  - Check box
+
 ### [0.0.71] - 2023-10-30
 
 ### Changed
